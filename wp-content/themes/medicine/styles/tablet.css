@@ -1,0 +1,13 @@
+* { max-width:100%; }
+#slider { display:none; }
+.container { padding:0 20px;width:auto; }
+.hd-left, .hd-right { float:none;margin:0; }
+#logo { text-align:center;padding-top:10px;float:left; }
+#searchform { text-align:center;float:right; }
+.sidebar { float:none !important;margin:0 !important;width:auto !important; }
+#goUp { top:auto;right:0;width:100%;height:50px;background-position:50% top; }
+.menu {display:none; }
+.mobile-menu { width:100%;border:none;padding:10px;border-radius:10px;-webkit-border-radius:10px;-moz-border-radius:10px;display:block !important; }
+#footer .widgets .widgets-block { float:none; width:100%; }
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product, .woocommerce ul.products li.product a img, .woocommerce-page ul.products li.product a img { width:auto; }
+#footer .widgets .widgets-block { float:none; width:100%; margin:0; }

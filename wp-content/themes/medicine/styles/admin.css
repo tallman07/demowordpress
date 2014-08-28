@@ -1,0 +1,196 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans&subset=latin,cyrillic-ext);
+body { overflow-y: scroll; }
+#wpwrap { background:url(../inc/images/lz_background.png) left top repeat; }
+a { outline:none !important; }
+#adminmenuback { z-index:0; }
+#lz-settings { font-family: 'Open Sans'; padding-top:115px; max-width:900px;margin:0 auto;position:relative;background:#fff;box-shadow:0 0 4px #D3D3D3; }
+#lz-settings h1 { margin:0; padding:15px 20px; border-bottom:1px solid #efefef; font-size:17px; }
+.lz-support.btn { background: linear-gradient(#F8F8F8, #FEFEFE) repeat scroll 0 0 transparent;border: 1px solid #F4F4F4;color: #21759B;font-size: 21px;margin-bottom: 21px;padding: 30px;cursor:pointer; }
+.lz-menu { background:#fff; margin-right:72px; margin:0 auto; position:fixed; width:100%; max-width:900px; top:0; box-shadow:0 0 28px #D9D9D9; }
+.admin-bar .lz-menu {top:28px;}
+.lz-top { background:url(../inc/images/top.png) left top repeat-x;min-height:61px; }
+.lz-top .lz-links { float:right; padding:3px 10px; }
+.lz-top .lz-links a { color:#fff;text-decoration:none; }
+.lz-top .lz-links a:hover{ text-decoration:underline; }
+.lz-menu .lz-logo{ margin-left:-37px; float:left; }
+.lz-menu .theme {float:left;color:#fff;padding:25px;font-size:23px;}
+.lz-menu ul {	margin:0;	clear:both;	height:35px;	position:relative;	z-index:2;	}
+.lz-menu-container {
+	 float: left;
+    margin-top: -13px;
+    overflow: hidden;
+    position: relative;
+}
+.lz-menu li {
+	float:left;
+	margin-bottom:0;
+}
+.lz-menu div.button, .lz-menu div.button:hover {
+	float:right;
+	margin:8px 20px;
+	background:url(../inc/images/save.png) left top no-repeat;
+	height:31px;
+	line-height:31px;
+	width:104px;
+	text-align:center;
+	border:none;
+	padding:0;
+	color:#fff;
+	text-shadow:0 1px 0px #4F4F4F;
+	display:none;
+}
+.lz-reset {
+	display:block;
+	float:right;
+	margin:15px;
+	display:none;
+}
+.lz-progress, .lz-status {
+	display:none;
+	float:right;
+}
+.lz-status {
+	line-height: 47px;
+    padding: 0 15px;
+}
+.lz-progress {
+	padding:11px;
+}
+.lz-menu li a{
+    display: block;
+    font-size: 11px;
+    padding: 9px;
+	height:32px;
+    text-decoration: none;
+	border-bottom:1px solid #E1E1EE;
+	color:#21759B;
+}
+.lz-menu li a .icon{
+	background-repeat:no-repeat;
+	margin-right:5px;
+	margin-bottom:-2px;
+	width:28px;
+	height:28px;
+	display:inline-block;
+}
+.lz-menu li a.active .icon {
+	background-position:0 -28px;
+}
+.lz-menu li a .menu-txt {
+	 float: right;
+    line-height: 13px;
+    margin-top: 2px;
+}
+.menu-hover {
+	z-index:1;
+	position:absolute;
+	height:3px;
+	bottom:0;
+	background:#E1E1EE;
+	width:20px;
+	display:none;
+}
+.lz-content {
+	padding:20px;
+}
+
+.lz-option {
+	margin-bottom:40px;
+	padding-bottom:20px;
+	border-bottom:1px solid #efefef;
+}
+.lz-option select, .lz-option input, .lz-option textarea{
+	width:400px;
+}
+.lz-option input[type="checkbox"] {
+	width:20px;
+}
+.lz-option .description {
+	width:380px;
+	float:right;
+}
+.lz-option .img img {
+	background:#fff;
+	max-width:100%;
+}
+.lz-option .img {
+	background: none repeat scroll 0 0 #f8f8f8;
+    border: 1px solid #efefef;
+    display: block;
+    overflow: hidden;
+    padding: 10px 10px;
+    text-align: center;
+    width: 442px;
+}
+
+.lz-panel {
+	padding:50px 85px;
+}
+
+.lz-page {
+	display:none;
+}
+.lz-item {
+	display:block;float:left;text-align:center;
+	width:160px;
+	padding:20px 0;
+	border:1px solid #f4f4f4;
+	margin:5px;
+	background: linear-gradient(#F8F8F8, #FeFeFe) repeat scroll 0 0 transparent;
+	font-size:14px;
+	text-decoration:none;
+}
+.lz-item:hover .hovered { display:inline; }
+.lz-item .hovered, .lz-item:hover .normal { display:none; }
+.lz-item img {
+	width:128px;
+	height:128px;
+}
+.lz-contacts {
+	border-top:1px solid #efefef;
+	padding-top:20px;
+	
+}
+
+@media only screen and (max-width:1120px){
+	.lz-menu {
+		left:182px;
+		width:auto;
+		right:0;
+	}
+}
+@media only screen and (max-width:900px){
+	.lz-menu {
+		left:70px;
+}
+}
+.lz-menu ul {
+	display:none;
+}
+.lz-select img {
+	margin:5px;
+	cursor:pointer;
+}
+.lz-select img.active {
+	border:1px solid #e8e8e8;
+}
+
+.lz-slides dt {
+	background:#4e99c4;
+	color:#fff;
+	padding:10px 20px;
+	margin-top:5px;
+}
+.lz-slides dt .remove {
+	float:right;
+}
+.lz-slides dt:hover {
+	background:#5aaad8;
+	cursor:pointer;
+}
+.lz-slides dd {
+	display:none;
+}
+.lz-slides dd.active {
+	display:block;
+}

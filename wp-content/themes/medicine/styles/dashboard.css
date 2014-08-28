@@ -1,0 +1,69 @@
+#toplevel_page_LZSettings .toplevel_page_LZSettings .wp-menu-image {
+				background:url(../inc/images/icon.png) left -28px no-repeat !important;
+			}
+			#toplevel_page_LZSettings.opensub .toplevel_page_LZSettings .wp-menu-image{
+				background:url(../inc/images/icon.png) left top no-repeat !important;
+			}
+			#forshowroom .lz-check {
+				margin:0 auto;
+			}
+			.lz-check {
+				background:url(../inc/images/checkbox.png) left top no-repeat;
+				height:30px;
+				background-position: 0 -30px;
+				width:70px;
+			}
+			.lz-check.label {
+				padding-left:90px;
+				width:auto;
+				line-height:30px;
+				margin-bottom:20px;
+			}
+			.lz-check.checked {
+				background-position: 0 0;
+			}
+			.feedback-departments ul {
+				float:left;width:250px;
+				padding:0 10px;
+				margin:0;
+			}
+			.feedback-departments li {
+				border:1px solid #CDCDCD;
+				padding:10px;
+				cursor:pointer;
+			}
+			.feedback-departments li.active {
+				background:#21759B;
+				color: #ffffff;
+			}
+			.department-details-container {
+				border:1px solid #CDCDCD;
+				padding:10px;
+				margin-left:270px;
+			}
+			.department-details {
+				display:none;
+			}
+			.department-details table {
+				padding-top:28px;
+			}
+			.department-details table, .department-details input[type="text"] {
+				width:100%;
+			}
+			.department-details table .button, .department-remove {
+				float:right;
+			}
+			#feedback_options {display:none; }
+			.detail-remove {
+				cursor:pointer;
+				text-decoration:underline;
+			}
+			.customizecss {
+				background:url(../inc/images/customizecss.png) left top no-repeat;
+				height:23px;
+				width:25px;
+				display:block;
+				float:right;
+				margin-bottom:-1px;
+				cursor:pointer;
+			}

@@ -1,0 +1,483 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Medicine 1.0\n"
+"POT-Creation-Date: 2013-12-05 19:06+0400\n"
+"PO-Revision-Date: 2013-12-05 19:06+0400\n"
+"Last-Translator: \n"
+"Language-Team: LizardThemes.com <support@lizardthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n;_x\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../blank/archive.php:1 ../frau/archive.php:1 ../medicine/archive.php:1
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../blank/archive.php:1 ../frau/archive.php:1 ../medicine/archive.php:1
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../blank/archive.php:1 ../frau/archive.php:1 ../medicine/archive.php:1
+msgid "F Y"
+msgstr ""
+
+#: ../blank/archive.php:1 ../frau/archive.php:1 ../medicine/archive.php:1
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../blank/archive.php:1 ../frau/archive.php:1 ../medicine/archive.php:1
+msgid "Y"
+msgstr ""
+
+#: ../blank/archive.php:1 ../frau/archive.php:1 ../medicine/archive.php:1
+msgid "Archives"
+msgstr ""
+
+#: ../blank/author.php:3 ../frau/author.php:3 ../medicine/author.php:3
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../blank/category.php:4 ../frau/category.php:4 ../medicine/category.php:4
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../blank/comments.php:13 ../frau/comments.php:13
+#: ../medicine/comments.php:13
+#, php-format
+msgid "One Response to &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: ../blank/comments.php:24 ../frau/comments.php:24
+#: ../medicine/comments.php:24
+msgid "Comment navigation"
+msgstr ""
+
+#: ../blank/comments.php:25 ../frau/comments.php:25
+#: ../medicine/comments.php:25
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../blank/comments.php:26 ../frau/comments.php:26
+#: ../medicine/comments.php:26
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../blank/comments.php:33 ../frau/comments.php:33
+#: ../medicine/comments.php:33
+msgid "Comments are closed."
+msgstr ""
+
+#: ../blank/content-page.php:11 ../frau/content-page.php:11
+#: ../medicine/content-page.php:11
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../blank/content-page.php:12 ../blank/content.php:23
+#: ../frau/content-page.php:12 ../frau/content.php:23
+#: ../medicine/content-page.php:12 ../medicine/content.php:21
+msgid "Pages:"
+msgstr ""
+
+#: ../blank/content-slide.php:10 ../frau/content-slide.php:10
+#: ../medicine/content-slide.php:10
+msgid "Read More"
+msgstr ""
+
+#: ../blank/content.php:11 ../blank/content.php:29 ../frau/content.php:11
+#: ../frau/content.php:29 ../medicine/content.php:8 ../medicine/content.php:28
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../blank/content.php:29 ../frau/content.php:29 ../medicine/content.php:28
+msgid "Read more"
+msgstr ""
+
+#: ../blank/content.php:34 ../frau/content.php:34 ../medicine/content.php:33
+msgid "Tags"
+msgstr ""
+
+#: ../blank/footer.php:26 ../frau/footer.php:26
+#, php-format
+msgid "Theme Frau by %s"
+msgstr ""
+
+#: ../blank/functions.php:94 ../blank/inc/default.php:77
+#: ../frau/functions.php:94 ../frau/inc/default.php:77
+#: ../medicine/functions.php:94 ../medicine/inc/default.php:77
+msgid "Main Menu"
+msgstr ""
+
+#: ../blank/functions.php:95 ../frau/functions.php:95
+#: ../medicine/functions.php:95
+msgid "Extra Menu"
+msgstr ""
+
+#: ../blank/functions.php:103 ../blank/functions.php:105
+#: ../blank/inc/author.php:44 ../frau/functions.php:103
+#: ../frau/functions.php:105 ../frau/inc/author.php:44
+#: ../medicine/functions.php:103 ../medicine/functions.php:105
+#: ../medicine/inc/author.php:44
+msgid "Right sidebar"
+msgstr ""
+
+#: ../blank/functions.php:112 ../blank/functions.php:114
+#: ../blank/inc/author.php:45 ../frau/functions.php:112
+#: ../frau/functions.php:114 ../frau/inc/author.php:45
+#: ../medicine/functions.php:112 ../medicine/functions.php:114
+#: ../medicine/inc/author.php:45
+msgid "Left sidebar"
+msgstr ""
+
+#: ../blank/functions.php:121 ../frau/functions.php:121
+#: ../medicine/functions.php:121
+msgid "Tabs"
+msgstr ""
+
+#: ../blank/functions.php:123 ../frau/functions.php:123
+#: ../medicine/functions.php:123
+msgid "Sadebar for Tabs widget"
+msgstr ""
+
+#: ../blank/functions.php:130 ../frau/functions.php:130
+#: ../medicine/functions.php:130
+msgid "Footer left"
+msgstr ""
+
+#: ../blank/functions.php:132 ../frau/functions.php:132
+#: ../medicine/functions.php:132
+msgid "Left footer widgets"
+msgstr ""
+
+#: ../blank/functions.php:139 ../frau/functions.php:139
+#: ../medicine/functions.php:139
+msgid "Footer middle"
+msgstr ""
+
+#: ../blank/functions.php:141 ../frau/functions.php:141
+#: ../medicine/functions.php:141
+msgid "Middle footer widgets"
+msgstr ""
+
+#: ../blank/functions.php:148 ../frau/functions.php:148
+#: ../medicine/functions.php:148
+msgid "Footer right"
+msgstr ""
+
+#: ../blank/functions.php:150 ../frau/functions.php:150
+#: ../medicine/functions.php:150
+msgid "Right footer widgets"
+msgstr ""
+
+#: ../blank/functions.php:337 ../frau/functions.php:337
+#: ../medicine/functions.php:337
+msgid "Home"
+msgstr ""
+
+#: ../blank/functions.php:361 ../frau/functions.php:361
+#: ../medicine/functions.php:361
+msgid "Pingback:"
+msgstr ""
+
+#: ../blank/functions.php:361 ../blank/functions.php:390
+#: ../frau/functions.php:361 ../frau/functions.php:390
+#: ../medicine/functions.php:361 ../medicine/functions.php:390
+msgid "Edit"
+msgstr ""
+
+#: ../blank/functions.php:374 ../frau/functions.php:374
+#: ../medicine/functions.php:374
+msgid "Post author"
+msgstr ""
+
+#: ../blank/functions.php:379 ../frau/functions.php:379
+#: ../medicine/functions.php:379
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../blank/functions.php:385 ../frau/functions.php:385
+#: ../medicine/functions.php:385
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../blank/functions.php:394 ../frau/functions.php:394
+#: ../medicine/functions.php:394
+msgid "Reply"
+msgstr ""
+
+#: ../blank/functions.php:416 ../frau/functions.php:416
+#: ../medicine/functions.php:416
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../blank/functions.php:425 ../frau/functions.php:425
+#: ../medicine/functions.php:425
+msgid "by"
+msgstr ""
+
+#: ../blank/loop.php:16 ../frau/loop.php:16 ../medicine/loop.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: ../blank/loop.php:18 ../frau/loop.php:18 ../medicine/loop.php:18
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: ../blank/navigation.php:9 ../frau/navigation.php:9
+#: ../medicine/navigation.php:9
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../blank/navigation.php:10 ../frau/navigation.php:10
+#: ../medicine/navigation.php:10
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../blank/navigation.php:31 ../frau/navigation.php:31
+#: ../medicine/navigation.php:31
+msgid "Next page"
+msgstr ""
+
+#: ../blank/relatedposts.php:1 ../frau/relatedposts.php:1
+#: ../medicine/relatedposts.php:1
+msgid "Related Posts"
+msgstr ""
+
+#: ../blank/relatedposts.php:1 ../frau/relatedposts.php:1
+#: ../medicine/relatedposts.php:1
+msgid "No related posts"
+msgstr ""
+
+#: ../blank/search.php:4 ../frau/search.php:4 ../medicine/search.php:4
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../blank/searchform.php:1 ../frau/searchform.php:1
+#: ../medicine/searchform.php:3
+msgid "search"
+msgstr ""
+
+#: ../blank/tag.php:4 ../frau/tag.php:4 ../medicine/tag.php:4
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../blank/inc/admin.php:52 ../frau/inc/admin.php:52
+#: ../medicine/inc/admin.php:52
+msgid "New configuration saved."
+msgstr ""
+
+#: ../blank/inc/admin.php:68 ../frau/inc/admin.php:68
+#: ../medicine/inc/admin.php:68
+msgid "Your message was sent to support."
+msgstr ""
+
+#: ../blank/inc/author.php:15 ../frau/inc/author.php:15
+#: ../medicine/inc/author.php:15
+msgid "Show this record in the showroom"
+msgstr ""
+
+#: ../blank/inc/author.php:16 ../frau/inc/author.php:16
+#: ../medicine/inc/author.php:16
+msgid "Select page template"
+msgstr ""
+
+#: ../blank/inc/author.php:31 ../frau/inc/author.php:31
+#: ../medicine/inc/author.php:31
+msgid "To show this item in showroom, select \""
+msgstr ""
+
+#: ../blank/inc/author.php:43 ../blank/inc/frontend.php:26
+#: ../frau/inc/author.php:43 ../frau/inc/frontend.php:26
+#: ../medicine/inc/author.php:43 ../medicine/inc/frontend.php:26
+msgid "Default"
+msgstr ""
+
+#: ../blank/inc/author.php:46 ../frau/inc/author.php:46
+#: ../medicine/inc/author.php:46
+msgid "Both sidebars"
+msgstr ""
+
+#: ../blank/inc/author.php:47 ../frau/inc/author.php:47
+#: ../medicine/inc/author.php:47
+msgid "Full width"
+msgstr ""
+
+#: ../blank/inc/dashboard.php:175 ../frau/inc/dashboard.php:175
+#: ../medicine/inc/dashboard.php:178
+msgid "How to start"
+msgstr ""
+
+#: ../blank/inc/dashboard.php:176 ../frau/inc/dashboard.php:176
+#: ../medicine/inc/dashboard.php:179
+msgid "Theme Homepage"
+msgstr ""
+
+#: ../blank/inc/dashboard.php:177 ../frau/inc/dashboard.php:177
+#: ../medicine/inc/dashboard.php:180
+msgid "Support Forums"
+msgstr ""
+
+#: ../blank/inc/dashboard.php:192 ../frau/inc/dashboard.php:192
+#: ../medicine/inc/dashboard.php:195
+msgid "Save Changes"
+msgstr ""
+
+#: ../blank/inc/dashboard.php:193 ../frau/inc/dashboard.php:193
+#: ../medicine/inc/dashboard.php:196
+msgid "Reset"
+msgstr ""
+
+#: ../blank/inc/dashboard.php:193 ../frau/inc/dashboard.php:193
+#: ../medicine/inc/dashboard.php:196
+msgid "settings"
+msgstr ""
+
+#: ../blank/inc/dashboard.php:199 ../frau/inc/dashboard.php:199
+#: ../medicine/inc/dashboard.php:202
+msgid "How to start?"
+msgstr ""
+
+#: ../blank/inc/dashboard.php:247 ../frau/inc/dashboard.php:247
+#: ../medicine/inc/dashboard.php:250
+msgid "Theme Author"
+msgstr ""
+
+#: ../blank/inc/dashboard.php:274 ../blank/inc/dashboard.php:409
+#: ../blank/inc/dashboard.php:431 ../frau/inc/dashboard.php:274
+#: ../frau/inc/dashboard.php:409 ../frau/inc/dashboard.php:431
+#: ../medicine/inc/dashboard.php:277 ../medicine/inc/dashboard.php:412
+#: ../medicine/inc/dashboard.php:434
+msgid "Upload"
+msgstr ""
+
+#: ../blank/inc/dashboard.php:342 ../frau/inc/dashboard.php:342
+#: ../medicine/inc/dashboard.php:345
+msgid "Attach system details to the message"
+msgstr ""
+
+#: ../blank/inc/dashboard.php:343 ../frau/inc/dashboard.php:343
+#: ../medicine/inc/dashboard.php:346
+msgid "Type your message here..."
+msgstr ""
+
+#: ../blank/inc/dashboard.php:405 ../blank/inc/dashboard.php:425
+#: ../frau/inc/dashboard.php:405 ../frau/inc/dashboard.php:425
+#: ../medicine/inc/dashboard.php:408 ../medicine/inc/dashboard.php:428
+msgid "Remove"
+msgstr ""
+
+#: ../blank/inc/dashboard.php:408 ../blank/inc/dashboard.php:430
+#: ../frau/inc/dashboard.php:408 ../frau/inc/dashboard.php:430
+#: ../medicine/inc/dashboard.php:411 ../medicine/inc/dashboard.php:433
+msgid "Title"
+msgstr ""
+
+#: ../blank/inc/dashboard.php:409 ../blank/inc/dashboard.php:431
+#: ../frau/inc/dashboard.php:409 ../frau/inc/dashboard.php:431
+#: ../medicine/inc/dashboard.php:412 ../medicine/inc/dashboard.php:434
+msgid "Image"
+msgstr ""
+
+#: ../blank/inc/dashboard.php:410 ../blank/inc/dashboard.php:432
+#: ../frau/inc/dashboard.php:410 ../frau/inc/dashboard.php:432
+#: ../medicine/inc/dashboard.php:413 ../medicine/inc/dashboard.php:435
+msgid "Description"
+msgstr ""
+
+#: ../blank/inc/dashboard.php:411 ../blank/inc/dashboard.php:433
+#: ../frau/inc/dashboard.php:411 ../frau/inc/dashboard.php:433
+#: ../medicine/inc/dashboard.php:414 ../medicine/inc/dashboard.php:436
+msgid "Link"
+msgstr ""
+
+#: ../blank/inc/dashboard.php:417 ../blank/inc/dashboard.php:439
+#: ../frau/inc/dashboard.php:417 ../frau/inc/dashboard.php:439
+#: ../medicine/inc/dashboard.php:420 ../medicine/inc/dashboard.php:442
+msgid "Add new slide..."
+msgstr ""
+
+#: ../blank/inc/dashboard.php:422 ../blank/inc/dashboard.php:430
+#: ../frau/inc/dashboard.php:422 ../frau/inc/dashboard.php:430
+#: ../medicine/inc/dashboard.php:425 ../medicine/inc/dashboard.php:433
+msgid "New slide"
+msgstr ""
+
+#: ../blank/inc/default.php:74 ../frau/inc/default.php:74
+#: ../medicine/inc/default.php:74
+msgid "Logo"
+msgstr ""
+
+#: ../blank/inc/default.php:75 ../frau/inc/default.php:75
+#: ../medicine/inc/default.php:75
+msgid "Search"
+msgstr ""
+
+#: ../blank/inc/default.php:76 ../frau/inc/default.php:76
+#: ../medicine/inc/default.php:76
+msgid "Secondary Menu"
+msgstr ""
+
+#: ../blank/inc/default.php:78 ../frau/inc/default.php:78
+#: ../medicine/inc/default.php:78
+msgid "Slider"
+msgstr ""
+
+#: ../blank/inc/default.php:79 ../frau/inc/default.php:79
+#: ../medicine/inc/default.php:79
+msgid "Showroom"
+msgstr ""
+
+#: ../blank/inc/default.php:80 ../frau/inc/default.php:80
+#: ../medicine/inc/default.php:80
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../blank/inc/default.php:81 ../frau/inc/default.php:81
+#: ../medicine/inc/default.php:81
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../blank/inc/default.php:82 ../frau/inc/default.php:82
+#: ../medicine/inc/default.php:82
+msgid "Footer"
+msgstr ""
+
+#: ../blank/inc/frontend.php:23 ../frau/inc/frontend.php:23
+#: ../medicine/inc/frontend.php:23
+msgid "Heading font"
+msgstr ""
+
+#: ../blank/inc/frontend.php:24 ../frau/inc/frontend.php:24
+#: ../medicine/inc/frontend.php:24
+msgid "Text font"
+msgstr ""
+
+#: ../blank/inc/frontend.php:25 ../frau/inc/frontend.php:25
+#: ../medicine/inc/frontend.php:25
+msgid "Menus and buttons font"
+msgstr ""
+
+#: ../medicine/footer.php:26
+#, php-format
+msgid "Theme medicine by %s"
+msgstr ""
+
+#: ../medicine/header.php:52
+msgid "Search this website"
+msgstr ""

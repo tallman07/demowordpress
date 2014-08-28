@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: medical_center\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-05-08 15:02+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: bestwebsoft.com <plugins@bestwebsoft.com>\n"
+"Language-Team: BestWebSoft <wp_theme@bestwebsoft.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: russian\n"
+"X-Poedit-Country: UKRAINE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../slider.php:35
+msgid "Learn More"
+msgstr "Читать далее"
+
+#: ../tag.php:15
+msgid "Tag Archives:"
+msgstr "Архив Тегов:"
+
+#: ../tag.php:22
+#: ../archive.php:30
+#: ../image.php:23
+#: ../index.php:20
+#: ../search.php:20
+#: ../category.php:20
+#: ../single.php:17
+msgid "Posted on"
+msgstr "Опубликовано"
+
+#: ../tag.php:23
+#: ../archive.php:31
+#: ../image.php:25
+#: ../index.php:21
+#: ../search.php:21
+#: ../category.php:21
+#: ../single.php:18
+msgid "in"
+msgstr "в"
+
+#: ../tag.php:34
+#: ../archive.php:42
+#: ../index.php:32
+#: ../search.php:31
+#: ../category.php:32
+msgid "[Top]"
+msgstr "[Вверх]"
+
+#: ../tag.php:39
+#: ../page.php:33
+#: ../archive.php:47
+#: ../image.php:72
+#: ../index.php:37
+#: ../search.php:36
+#: ../category.php:37
+#: ../single.php:42
+msgid "Tags:"
+msgstr "Теги:"
+
+#: ../tag.php:48
+#: ../archive.php:56
+#: ../search.php:45
+#: ../category.php:46
+#: ../404.php:13
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: ../tag.php:50
+#: ../archive.php:58
+#: ../search.php:47
+#: ../category.php:48
+#: ../404.php:14
+msgid "Sorry, unfortunately, we could not find the requested page."
+msgstr "Извините, к сожалению, запрашиваемая вами страница не найдена."
+
+#: ../archive.php:16
+msgid "Daily Archives:"
+msgstr "Ежедневные архивы:"
+
+#: ../archive.php:18
+msgid "Monthly Archives:"
+msgstr "Ежемесячные архивы:"
+
+#: ../archive.php:20
+msgid "Yearly Archives:"
+msgstr "Ежегодные архивы:"
+
+#: ../archive.php:22
+msgid "Archives"
+msgstr "Архивы:"
+
+#: ../footer.php:15
+msgid "Powered by"
+msgstr "Создано"
+
+#: ../footer.php:15
+msgid "and"
+msgstr "и"
+
+#: ../footer.php:15
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../image.php:15
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: ../image.php:16
+msgid "Next"
+msgstr "Следующий"
+
+#: ../image.php:24
+msgid "at"
+msgstr "в"
+
+#: ../functions.php:28
+msgid "menu"
+msgstr "меню"
+
+#: ../functions.php:151
+msgid "If you want to add this post in slider, choose the checkbox"
+msgstr "Если вы хотите добавить этот пост в слайдер,  нужно поставить флажок"
+
+#: ../functions.php:198
+#: ../functions.php:253
+msgid "Home"
+msgstr "Главная"
+
+#: ../functions.php:238
+msgid "Search Results for:"
+msgstr "Результаты поиска:"
+
+#: ../functions.php:242
+msgid "Author archives"
+msgstr "Архивы:"
+
+#: ../functions.php:249
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#: ../functions.php:294
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../functions.php:294
+msgid "(Edit)"
+msgstr "(Править)"
+
+#: ../functions.php:307
+msgid "Post author"
+msgstr "Опубликовано автором"
+
+#: ../functions.php:313
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s из %2$s"
+
+#: ../functions.php:318
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: ../functions.php:322
+msgid "Edit"
+msgstr "Править"
+
+#: ../functions.php:327
+msgid "Reply"
+msgstr "Ответить"
+
+#: ../header.php:38
+msgid "Welcome to our blog!"
+msgstr "Добро пожаловать на наш блог!"
+
+#: ../searchform.php:12
+msgid "Enter search keyword"
+msgstr "Введите слово или фразу"
+
+#: ../search.php:14
+msgid "Search results for:"
+msgstr "Результаты поиска:"
+
+#: ../category.php:14
+msgid "Category:"
+msgstr "Категории:"
+
+#: ../comments.php:12
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Эта публикация защищена паролем. Введите пароль для просмотра комментариев."
+
+#: ../comments.php:17
+msgid "One thought on"
+msgstr "Один комментарий для"
+
+#: ../comments.php:17
+msgid "thoughts on"
+msgstr "комментарии для"
+
+#~ msgid "Search Results for: %s"
+#~ msgstr "Результаты поиска:"
+
+#~ msgid "Tags: "
+#~ msgstr "Теги:"
+
+#~ msgid "Results for:"
+#~ msgstr "Результаты поиска:"
+
+#~ msgid "Authors posts:"
+#~ msgstr "Сообщения автора:"
+
+#~ msgid "Error 404"
+#~ msgstr "Error 404"
+
+#~ msgid "But no results were found.Searching will help find a related post."
+#~ msgstr "Запрашиваемая Вами страница не найдена. Возможно, поиск поможет."
+
+#, fuzzy
+#~ msgid ""
+#~ "Apologies, but no results were found for the requested archive. Perhaps "
+#~ "searching will help find a related post."
+#~ msgstr "Запрашиваемая Вами страница не найдена. Возможно, поиск поможет."
+
+#~ msgid "Reblog"
+#~ msgstr "Reblog"
+
+#~ msgid "Category: "
+#~ msgstr "Категории:"

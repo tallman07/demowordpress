@@ -1,0 +1,15 @@
+
+/*--------------------------------------------------- columns -------------------------------------------- */
+.cols .two { width:48%; padding:1%; display:inline; float:left; }
+#tinymce .cols .two { width:47%; border:1px dotted #dfdfdf; }
+.cols .prop { width:32%; padding:1%; display:inline; float:left; }
+#tinymce .cols .prop { width:31%; border:1px dotted #dfdfdf; }
+.cols .propfirst { width:64%; padding:1%; display:inline; float:left; }
+#tinymce .cols .propfirst { width:63%; border:1px dotted #dfdfdf; }
+.cols .three { width:31%; padding:1%; display:inline; float:left; }
+#tinymce .cols .three { width:31%; border:1px dotted #dfdfdf; }
+.cols .four { width:23%; padding:1%; display:inline; float:left; }
+#tinymce .cols .four { width:22%; border:1px dotted #dfdfdf; }
+.cols { clear: both; overflow: hidden; }
+
+
